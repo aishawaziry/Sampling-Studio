@@ -16,10 +16,10 @@
 * Control the sampling frequency of the signal to see the effects of undersampling and oversampling (default sampling frequency is the Nyquist frequency)
 ![Screenshot (68)](https://user-images.githubusercontent.com/93945902/199555705-e1c73b6f-09e1-4e86-8fbc-0b2c2ec88552.png)
 
-* Upload a signal file (.csv or .xlsx) to sample and reconstruct the signal inside it
+* Upload a signal file (.csv or .xlsx) to sample and reconstruct the signal 
 ![Screenshot (58)](https://user-images.githubusercontent.com/93945902/199198326-a91445b8-14cc-40f5-9a5d-7e5fc48c04d8.png)
 
-* Add noise to the signal and control the signal-to-noise ratio (SNR) in both composer and uploaded file
+* Add noise to the signal and control the signal-to-noise ratio (SNR) 
 ![Screenshot (69)](https://user-images.githubusercontent.com/93945902/199555969-072bc7f9-4ab7-4c99-b775-aaaabee8cc2a.png)
 ![Screenshot (59)](https://user-images.githubusercontent.com/93945902/199199156-749da990-5f3d-4799-87f5-c7cb1567089c.png)
 
